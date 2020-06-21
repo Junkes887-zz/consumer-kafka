@@ -9,6 +9,6 @@ Execute o comando `npm i` e depois `npm start`
 
 ### Docker
 ```python
-docker-compose -f docker-compose.yml up -d  #Para rodar
-docker-compose down #Para parar
+docker-compose -f docker-compose.yml up -d  #run
+docker-compose down #stop
 ```
