@@ -4,7 +4,7 @@ Projeto feito com typescript para integrar uma api com um consumer usando o Apac
 ## Etapas para executar esse projeto
 
 ### Projetos
-Cada projeto roda separado
+Cada projeto roda separado<br/>
 Execute o comando `npm i` e depois `npm start` 
 
 ### Docker
